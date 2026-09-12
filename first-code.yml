@@ -4,3 +4,6 @@
   task: 
   - name: centos:7
   - service: enabled 
+  
+  - name: installing apache 
+  - service: started
