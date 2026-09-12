@@ -1,0 +1,6 @@
+---
+- name: updating linux users 
+- hosts: localhost 
+  task: 
+  - name: ubuntu
+  - service: enabled 
