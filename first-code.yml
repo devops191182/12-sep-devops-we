@@ -2,5 +2,5 @@
 - name: updating linux users 
 - hosts: localhost 
   task: 
-  - name: centos:7
+  - name: centos7
   - service: enabled 
